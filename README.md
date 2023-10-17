@@ -1,2 +1,2 @@
 # PAVEDYS
-Parametric Verification of Dynamic Distributed Systems
+## Parametric Verification of Dynamic Distributed Systems
