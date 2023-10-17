@@ -1,6 +1,6 @@
 PaVeDyS is funded by [ANR](https://anr.fr/) under grant number ANR-23-CE48-0005. The project starts on January 16th 2024 for a duration of 4 years. 
 
-## Partners
+#### Partners
 
 1. [VERIMAG](https://www-verimag.imag.fr) (Grenoble) : Radu Iosif (PI), Marius Bozga, Lucas Bueri
 2. [LABRI](https://www.labri.fr/) (Bordeaux) : Igor Walukiewicz, Hugo Gimbert, Anca Muscholl, Mikhail Raskin, Corto Mascle
