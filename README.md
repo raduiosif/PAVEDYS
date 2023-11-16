@@ -4,7 +4,7 @@ PaVeDyS is funded by [ANR](https://anr.fr/) under grant number ANR-23-CE48-0005.
 1. [VERIMAG](https://www-verimag.imag.fr) (Grenoble) : Radu Iosif (PI), Marius Bozga, Karine Altisen, Lucas Bueri
 2. [LABRI](https://www.labri.fr/) (Bordeaux) : Igor Walukiewicz, Hugo Gimbert, Anca Muscholl, Mikhail Raskin, Corto Mascle
 3. [INRIA](https://www.inria.fr/fr/centre-inria-universite-rennes) (Rennes) : Nathalie Bertrand, Thierry Jeron, Nicolas Markey, Ocan Sankur, Nicolas Waldburger
-4. [IRIF](https://www.irif.fr/) (Paris) : Marie Fortin, Ahmed Bouajjani, Lucie Guillou
+4. [IRIF](https://www.irif.fr/) (Paris) : Marie Fortin, Ahmed Bouajjani, Lucie Guillou, Jeremy Ledent
 5. *[DIBRIS](https://dibris.unige.it/en) (Genova) : Arnaud Sangnier* (external partner)
 
 ## Abstract
