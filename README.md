@@ -12,4 +12,4 @@ Applications of distributed systems are omnipresent. They allow sharing resource
 
 ## Meetings
 
-1. Kick-off meeting: IRIF, Paris, January 16 2024
+1. [Kick-off meeting: IRIF, Paris, January 16 2024](IRIF_16_06_2024.md)
