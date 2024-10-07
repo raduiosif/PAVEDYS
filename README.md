@@ -13,3 +13,4 @@ Applications of distributed systems are omnipresent. They allow sharing resource
 ## Meetings
 
 1. [Kick-off meeting: IRIF, Paris, January 16 2024](IRIF_16_06_2024.md)
+2. [2nd meeting: VERIMAG, Grenoble, October 14 2024](VERIMAG_14_01_2024.md)
