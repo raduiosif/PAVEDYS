@@ -12,7 +12,6 @@ Applications of distributed systems are omnipresent. They allow sharing resource
 
 ## News
 
-- HdR defence of [Ocan Sankur](http://videos.rennes.inria.fr/hdr/Ocan-Sankur-2023/edition-HDR-defense-Ocan-Sankur-02-10-2023.html), October 2nd 2023
 - PhD defence of [Corto Mascle](https://corto-mascle.github.io/), November 28th 2024
 - PhD defence of [Nicolas Waldburger](https://people.irisa.fr/Nicolas.Waldburger/defense.html), December 11th 2024
 - PhD defence of Lucas Bueri, December 12th 2024
