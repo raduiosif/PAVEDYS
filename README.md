@@ -10,6 +10,13 @@ PaVeDyS is funded by [ANR](https://anr.fr/) under grant number ANR-23-CE48-0005.
 ## Abstract
 Applications of distributed systems are omnipresent. They allow sharing resources and data. They are used to coordinate activities across multiple nodes, as in geographically distributed systems. Furthermore, they increase the resilience of systems through fault tolerance, availability, and recovery mechanisms. Designing, understanding, and validating distributed systems is challenging because of the huge number of interactions between components, some potentially leading to unpredictable scenarios. Early detection of design errors is not only crucial for financial reasons, but it is often the only feasible way to find critical errors. The methods for ensuring the correctness of distributed systems are not yet mature. This is particularly the case for the **mechanized reasoning methods** that we propose to develop in this project.
 
+## News
+
+- HdR defence of [Ocan Sankur](http://videos.rennes.inria.fr/hdr/Ocan-Sankur-2023/edition-HDR-defense-Ocan-Sankur-02-10-2023.html), October 2nd 2023
+- PhD defence of [Corto Mascle](https://corto-mascle.github.io/), November 28th 2024
+- PhD defence of [Nicolas Waldburger](https://people.irisa.fr/Nicolas.Waldburger/defense.html), December 11th 2024
+- PhD defence of Lucas Bueri, December 12th 2024
+
 ## Meetings
 
 1. [Kick-off meeting: IRIF, Paris, January 16 2024](IRIF_16_06_2024.md)
