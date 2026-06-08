@@ -15,7 +15,7 @@ Applications of distributed systems are omnipresent. They allow sharing resource
 - PhD defence of [Corto Mascle](https://corto-mascle.github.io/), November 28th 2024
 - PhD defence of [Nicolas Waldburger](https://people.irisa.fr/Nicolas.Waldburger/defense.html), December 11th 2024
 - PhD defence of Lucas Bueri, December 12th 2024
-_ PhD defence of [Lucie Guillou](https://lucieguillou.github.io/defense/), September 30th, 2025
+- PhD defence of [Lucie Guillou](https://lucieguillou.github.io/defense/), September 30th, 2025
 
 ## Meetings
 
